@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    width: 100vw;
+    height: 100vh;
+    background: rgb(0,0,0);
+    background: linear-gradient(117deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 29%, rgba(0,0,0,1) 62%, rgba(119,119,119,1) 64%, rgba(0,0,0,1) 66%);
+}
+
+.heading2{
+    padding-top: 5vh;
+    font-size: large;
+}
